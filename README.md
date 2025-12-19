@@ -20,5 +20,5 @@
 - Key predictors: room count, neighborhood status, school quality
 
 ## Files
-- `boston_analysis.R` - Main analysis script
+- `stat435_Project_Berlage_Pascal.Rmd` - Complete R Markdown analysis
 - `README.md` - This file
