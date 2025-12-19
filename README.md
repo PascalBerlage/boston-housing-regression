@@ -21,4 +21,5 @@
 
 ## Files
 - `stat435_Project_Berlage_Pascal.Rmd` - Complete R Markdown analysis
+- `boston_housing_report.pdf` - Analysis as PDF
 - `README.md` - This file
